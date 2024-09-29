@@ -6,7 +6,7 @@ Welcome to **Fast React Pizza Co.**! 🍕 This is my first project built with Re
 
 In this project, users can browse through various pizzas, see their details, and understand what makes each pizza unique. My main goals were to learn and implement core React concepts, and I'm excited to share what I've achieved!
 
-   ![Screenshot](assets/screenshot(114).png)
+   ![Screenshot](assets/Screenshot(114).png)
 
 ## What I Learned
 
