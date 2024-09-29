@@ -24,8 +24,12 @@ To view the project:
    ```bash
    git clone https://github.com/harshi777/fast-react-pizza-co.git
 2. Navigate to the project directory:
+   ```bash
    cd fast-react-pizza-co
-3. Install the dependencies:
+4. Install the dependencies:
+   ```bash
    npm install
-4. Start the development server:
+6. Start the development server:
+   ```bash
    npm start
+
